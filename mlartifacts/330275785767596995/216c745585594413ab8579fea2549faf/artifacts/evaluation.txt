@@ -1,0 +1,1 @@
+{'adherence': 'No', 'issues': 'Avoiding using informal language (hello ji), using slang (ji)'}

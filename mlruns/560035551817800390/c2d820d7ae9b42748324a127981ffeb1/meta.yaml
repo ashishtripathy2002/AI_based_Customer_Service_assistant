@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Sidhant%20Saxena/Desktop/MLOPS/nlp/nlp_customer_service/mlruns/560035551817800390/c2d820d7ae9b42748324a127981ffeb1/artifacts
+end_time: 1750318647096
+entry_point_name: ''
+experiment_id: '560035551817800390'
+lifecycle_stage: active
+run_id: c2d820d7ae9b42748324a127981ffeb1
+run_name: Indexing_docs
+run_uuid: c2d820d7ae9b42748324a127981ffeb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750318646705
+status: 3
+tags: []
+user_id: ashis

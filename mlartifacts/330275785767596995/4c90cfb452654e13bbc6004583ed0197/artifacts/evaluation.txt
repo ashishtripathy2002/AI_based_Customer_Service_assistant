@@ -1,0 +1,1 @@
+{'adherence': 'Yes', 'issues': 'Using informal language (hello ji), avoiding formal greeting (should be a proper greeting like "Good morning" or "Hello")'

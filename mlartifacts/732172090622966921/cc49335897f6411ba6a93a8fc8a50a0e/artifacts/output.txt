@@ -1,0 +1,1 @@
+{'summary': 'A customer was overcharged on their bill and the agent helped to correct the error by initiating a refund, which will be processed in 3-5 days.', 'category': 'Account Management'}

@@ -1,0 +1,1 @@
+{'adherence': 'No', 'issues': 'using informal language (hello ji), failing to maintain a professional tone (e.g., "I'm really sorry to hear that"), using slang ("ji")' }

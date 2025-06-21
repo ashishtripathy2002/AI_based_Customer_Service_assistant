@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/732172090622966921
+creation_time: 1744890098103
+experiment_id: '732172090622966921'
+last_update_time: 1744890098103
+lifecycle_stage: active
+name: summarizer-experiments

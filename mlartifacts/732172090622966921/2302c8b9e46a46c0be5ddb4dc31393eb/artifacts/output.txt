@@ -1,0 +1,1 @@
+{'summary': 'The customer reported fraudulent transactions on their account and received SMS alerts but did not make the transactions. The agent blocked the card, initiated a fraud investigation, and assured the customer of a follow-up within 24 hours.', 'category': 'Fraud and Security'}

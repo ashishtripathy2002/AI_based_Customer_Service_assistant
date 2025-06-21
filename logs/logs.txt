@@ -1,0 +1,51 @@
+[INFO] | 2025-04-18 17:54:59.468 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:03.620 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:10.641 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:10.660 | INFO | app.py:<module>:169 | Fetching insights from backend.
+[INFO] | 2025-04-18 17:55:14.718 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:19.211 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:36.417 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:44.720 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:55:45.723 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:06.424 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:06.449 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:56:14.730 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:14.768 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:56:15.731 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:36.762 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:36.812 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:56:44.744 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:56:44.790 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:56:45.728 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:06.735 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:06.766 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.760 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.760 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.760 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.763 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.763 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.769 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.769 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.763 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.769 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:57:47.938 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.938 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.939 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.939 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.938 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:57:47.939 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:06.430 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:06.444 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:24.194 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:24.221 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:24.392 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:24.421 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:24.473 | INFO | app.py:dump_ticket:57 | Ticket Saved.
+[INFO] | 2025-04-18 17:58:36.733 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:36.756 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:47.732 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:47.734 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:47.732 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:47.734 | INFO | app.py:load_chat:44 | Frontend started.
+[INFO] | 2025-04-18 17:58:47.829 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.
+[INFO] | 2025-04-18 17:58:47.829 | INFO | app.py:print_bullet_points:66 | Generating rule compliance.

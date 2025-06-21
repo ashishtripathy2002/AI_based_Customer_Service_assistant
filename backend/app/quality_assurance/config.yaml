@@ -1,0 +1,27 @@
+ollama:
+  base_url: "http://127.0.0.1:11434"
+  model: "llama3"
+
+qa_policy:
+  prompt: |
+    Evaluate the following agent response for adherence to company policy.
+
+    Agent Response:
+    """{agent_response}"""
+
+    Company Policy:
+    The agent must adhere to the following guidelines when responding to customers:
+    1. Be polite and courteous at all times.
+    2. Avoid using slang, sarcasm, or informal language.
+    3. Acknowledge the customer's concern before offering a solution.
+    4. Do not share personal opinions or unsupported information.
+    5. Maintain a professional and empathetic tone.
+
+    Based on the policy, respond with:
+    - Adherence: "Yes" or "No"
+    - issues: any guideline violations as one comma separated string
+
+    Output Format: {'adherence':<'yes'/'no'>, 'issues':'<specify issue in one string line>'}
+
+    Instructions:
+    Be strict with the output format, do not add anything else.

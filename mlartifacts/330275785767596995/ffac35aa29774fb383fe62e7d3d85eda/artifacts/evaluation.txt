@@ -1,0 +1,1 @@
+{'adherence': No, 'issues': The agent used informal language ("hello ji", "ji" is a slang term), and the tone may be considered slightly casual rather than professional and empathetic}

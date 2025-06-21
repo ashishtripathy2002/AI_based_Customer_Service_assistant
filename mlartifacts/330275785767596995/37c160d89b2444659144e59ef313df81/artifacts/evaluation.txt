@@ -1,0 +1,1 @@
+{'adherence': 'yes', 'issues':'using slang/informal language (hello ji), failure to acknowledge customer's concern before offering a solution'"}

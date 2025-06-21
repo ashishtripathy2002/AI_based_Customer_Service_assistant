@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1d93ed31f6e4d83982c68ea62090d28/artifacts
+end_time: 1744893648819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1d93ed31f6e4d83982c68ea62090d28
+run_name: Indexing_transcripts
+run_uuid: d1d93ed31f6e4d83982c68ea62090d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744893648122
+status: 3
+tags: []
+user_id: sidhant

@@ -1,0 +1,1 @@
+{'summary': 'A customer reported fraudulent transactions on their account and the agent assisted by confirming the transaction dates and times, notifying them of the process to block the card and initiate a fraud investigation.', 'category': 'Fraud and Security'}

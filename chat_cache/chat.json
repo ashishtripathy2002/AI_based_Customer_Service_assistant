@@ -1,0 +1,62 @@
+[
+  {
+    "sender": "customer",
+    "message": "hi"
+  },
+  {
+    "sender": "agent",
+    "message": "hello ji"
+  },
+  {
+    "sender": "customer",
+    "message": "I have an issue "
+  },
+  {
+    "sender": "customer",
+    "message": "so i have had fraudulent transactions made from my account in the past few days"
+  },
+  {
+    "sender": "agent",
+    "message": "I'm really sorry to hear that. Can you please confirm the date and time of the transactions?"
+  },
+  {
+    "sender": "customer",
+    "message": "Yes, one was on April 10th around 3 PM and another on April 12th in the morning."
+  },
+  {
+    "sender": "agent",
+    "message": "Thanks for sharing. Were you notified about these transactions via SMS or email?"
+  },
+  {
+    "sender": "customer",
+    "message": "Yes, I received SMS alerts but I didn\u00e2\u20ac\u2122t make those transactions."
+  },
+  {
+    "sender": "agent",
+    "message": "Understood. We'll need to temporarily block your card and initiate a fraud investigation. Shall I proceed?"
+  },
+  {
+    "sender": "customer",
+    "message": "Yes, please go ahead."
+  },
+  {
+    "sender": "agent",
+    "message": "Done. Your card has been blocked and a fraud report has been filed. You\u00e2\u20ac\u2122ll hear from our team within 24 hours."
+  },
+  {
+    "sender": "customer",
+    "message": "Thank you for the quick help."
+  },
+  {
+    "sender": "agent",
+    "message": "You're welcome. If you need further assistance, feel free to message us anytime."
+  },
+  {
+    "sender": "agent",
+    "message": "i dont want to solve your problem anymore go trouble someone else shit shit shit"
+  },
+  {
+    "sender": "agent",
+    "message": "i dont want to solve your problem anymore go trouble someone else shit shit shit"
+  }
+]

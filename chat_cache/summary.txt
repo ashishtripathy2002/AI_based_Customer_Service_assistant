@@ -1,0 +1,1 @@
+{'summary': 'The customer reported fraudulent transactions on their account and the agent assisted in temporarily blocking the card and initiating a fraud investigation. The customer was notified of the transactions via SMS and was assured that they would be contacted by the team within 24 hours.', 'category': 'Fraud and Security'}

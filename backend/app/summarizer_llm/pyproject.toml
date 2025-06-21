@@ -1,0 +1,14 @@
+[project]
+name = "summarizer"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "httpx",
+    "pyyaml",
+    "pydantic==2.11.3",
+    "pydantic-settings==2.8.1",
+    "mlflow",
+    "prefect==3.3.4"
+]

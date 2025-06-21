@@ -1,0 +1,4 @@
+{'adherence': No, 
+issues: 
+- Using informal language ("Sure", "Please give me a moment") instead of being polite and courteous at all times
+- Not acknowledging the customer's concern before offering a solution (missing acknowledgment)

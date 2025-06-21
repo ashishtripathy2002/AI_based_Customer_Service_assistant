@@ -1,0 +1,10 @@
+transcript_search_url: "http://127.0.0.1:8000/search"
+ollama_host: "http://127.0.0.1:11434"
+llm_model: "llama3"
+prompt_template: | 
+        You are an expert soultion suggester. Summarize what solution is used by the agent in one line.
+        output format: {'solution':<solution provied>}
+        instructions:
+        only provide the output in the given format, do not add anything else.
+        ---
+        {input}

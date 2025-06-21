@@ -1,0 +1,1 @@
+{'adherence': 'No', 'issues':'using informal language ("hello ji", "ji"), sharing personal opinions ("I'm really sorry to hear that")'"}

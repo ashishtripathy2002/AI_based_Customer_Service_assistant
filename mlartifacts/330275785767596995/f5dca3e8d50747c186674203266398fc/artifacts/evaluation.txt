@@ -1,0 +1,1 @@
+{'adherence': 'no', 'issues found': ['Avoid using slang, sarcasm, or informal language (used "hello ji" and "you're welcome")']}]

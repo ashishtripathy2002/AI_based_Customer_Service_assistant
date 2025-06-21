@@ -1,0 +1,3 @@
+transcript_folder: "transcripts"
+knowledge_base: "docs"
+embedding_model: "paraphrase-MiniLM-L6-v2"

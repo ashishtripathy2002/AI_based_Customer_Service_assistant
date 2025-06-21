@@ -1,0 +1,1 @@
+{'adherence': 'No', 'issues': 'Using informal language (hello ji), failing to acknowledge concern directly ("I'm really sorry to hear that" is a sympathy statement rather than an acknowledgement of the customer's concern)'°}

@@ -1,0 +1,1 @@
+{'summary': 'A customer reported being overcharged on their bill and the agent apologized, identified the issue as a billing error, and initiated a refund to correct the mistake.', 'category': 'Account Management'}

@@ -1,0 +1,1 @@
+{'summary': 'The customer reported fraudulent transactions made from their account over the past few days and is seeking assistance.', 'category': 'Fraud and Security'}

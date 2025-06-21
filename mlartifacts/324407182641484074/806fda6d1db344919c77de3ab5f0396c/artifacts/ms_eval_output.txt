@@ -1,0 +1,1 @@
+{'clarity': 4, 'politeness': 3, 'empathy': 2, 'professionalism': 5, 'engagement': 1}

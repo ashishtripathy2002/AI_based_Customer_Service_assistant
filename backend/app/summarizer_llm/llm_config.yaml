@@ -1,0 +1,12 @@
+ollama_host: "http://127.0.0.1:11434"
+model_name: "llama3"
+prompt_template: |
+  Summarize the following customer support conversation in a concise and clear paragraph
+  and categorize the conversation into one the following categories given below:
+  - "Account Management", "Loan and Credit Services", "Fraud and Security", "Card Services", "Online and Mobile Banking".
+  
+  output format: {'summary':<summary of conversation>,'category':<predefined category>}
+  instructions:
+  only provide the output in the given format, do not add anything else.
+  ---
+  {input}

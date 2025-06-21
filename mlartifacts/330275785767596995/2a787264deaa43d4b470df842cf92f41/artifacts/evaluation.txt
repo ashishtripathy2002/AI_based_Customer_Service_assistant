@@ -1,0 +1,1 @@
+{'adherence': 'No', 'issues': 'Avoiding using polite and courteous tone, Not acknowledging customer's concern before offering solution'}

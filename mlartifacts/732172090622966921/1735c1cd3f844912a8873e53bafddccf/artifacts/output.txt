@@ -1,0 +1,1 @@
+{'summary': 'The customer reported fraudulent transactions on their account and the agent blocked the card, initiated a fraud investigation, and assured the customer they will hear from the team within 24 hours.', 'category': 'Fraud and Security'}

@@ -1,0 +1,1 @@
+{'adherence': 'Yes', 'issues': 'using slang/informal language (hello ji), lack of professional tone'}

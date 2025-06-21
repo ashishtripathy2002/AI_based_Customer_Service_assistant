@@ -1,0 +1,1 @@
+{'adherence': No, 'Issues Found': The agent response uses informal language ("Please give me a moment." instead of using a more formal phrase).

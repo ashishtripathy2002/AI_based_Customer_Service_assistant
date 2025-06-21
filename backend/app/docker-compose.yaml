@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  ms_advance:
+    build:
+      context: ./ms_advance
+      dockerfile: Dockerfile
+    container_name: ms-advance
+    network_mode: "host"
+    environment:
+      - PREFECT_API_URL=http://127.0.0.1:4200/api
+      - MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+
+  quality_assurance:
+    build:
+      context: ./quality_assurance
+      dockerfile: Dockerfile
+    container_name: quality
+    network_mode: "host"
+    environment:
+      - PREFECT_API_URL=http://127.0.0.1:4200/api
+      - MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+
+  suggestions:
+    build:
+      context: ./suggestions
+      dockerfile: Dockerfile
+    container_name: suggester
+    network_mode: "host"
+    environment:
+      - PREFECT_API_URL=http://127.0.0.1:4200/api
+      - MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+
+
+  summarizer_llm:
+    build:
+      context: ./summarizer_llm
+      dockerfile: Dockerfile
+    container_name: summarizer-llm
+    network_mode: "host"
+    environment:
+      - PREFECT_API_URL=http://127.0.0.1:4200/api
+      - MLFLOW_TRACKING_URI=http://127.0.0.1:5000

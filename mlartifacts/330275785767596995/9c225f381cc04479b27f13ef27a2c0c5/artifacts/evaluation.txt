@@ -1,0 +1,3 @@
+{'adherence': No, 
+issues: 
+- Using informal language ("Please give me a moment.")

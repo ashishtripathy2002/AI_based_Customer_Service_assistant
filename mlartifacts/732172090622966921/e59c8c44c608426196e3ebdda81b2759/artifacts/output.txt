@@ -1,0 +1,1 @@
+{'summary': 'The customer reported fraudulent transactions on their account and received SMS alerts but did not make the transactions. The agent confirmed the dates of the transactions and blocked the card, initiating a fraud investigation.', 'category': 'Fraud and Security'}
